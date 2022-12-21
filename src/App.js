@@ -1,9 +1,10 @@
 import './App.css';
 
 function App() {
+  consolelog(123)
   return (
     <div className="App">
-      xin chao cac ban
+      
     </div>
   );
 }
